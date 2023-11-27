@@ -7,7 +7,6 @@ I'm studying Software Development
 * 🌍  I'm based in East London
 * ✉️  You can contact me at [hlumelong@gmail.com](mailto:hlumelong@gmail.com)
 * 🧠  I'm learning Java
-* My GitHub account shows my progress as I go down the journey of programming 
 
 ### Skills
 
