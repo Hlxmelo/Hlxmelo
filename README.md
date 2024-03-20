@@ -4,9 +4,9 @@ Hi 👋 My name is Hlumelo Ngalo
 I'm studying Software Development
 ---------------------------------
 
-* 🌍  I'm based in East London
+* 🌍  I'm based in South Africa
 * ✉️  You can contact me at [hlumelong@gmail.com](mailto:hlumelong@gmail.com)
-* 🧠  I'm learning Java
+* 🧠 Software Developer (Java)
 
 ### Skills
 
